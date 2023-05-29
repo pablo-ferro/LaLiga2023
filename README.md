@@ -9,6 +9,8 @@ The main objective of this project is to provide a comprehensive and visually en
 
 https://twitter.com/pabloferros/status/1663193518649556992
 
+![Season Result](LaLigaResults.png)
+
 ## Features
 - **Interactive Sankey Diagram**: The centerpiece of this project is an interactive Sankey diagram created using Tableau. The diagram illustrates the movement of teams across rounds, depicting changes in positions, points, and the potential relegation scenario for the last round. Users can hover over the diagram to obtain detailed information about each team and their performance.
 - **Round-by-Round Analysis**: The visualization provides a detailed round-by-round analysis of La Liga results, allowing users to explore the performance of each team over the course of the season. It highlights key matches, trends, and significant moments that shaped the league standings.
