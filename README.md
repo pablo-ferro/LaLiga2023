@@ -4,6 +4,8 @@ Welcome to the La Liga Results 2022/2023 Season Visualization repository! This p
 
 https://public.tableau.com/app/profile/pabloferros/viz/LastRoundBattleofLaLiga2223/Dashboard1
 
+This visualization project was highlighted in the series Sports Viz Sunday, you can read it here: https://www.sportsvizsunday.com/post/weekly-roundup-06-04-2023
+
 ## Objective
 The main objective of this project is to provide a comprehensive and visually engaging visualization of the La Liga results for the 2022/2023 season. By utilizing a Sankey diagram, we aim to present the flow of points and positions for each team throughout the season, highlighting the pivotal final round where relegation to the Second Division is at stake for five teams.
 
